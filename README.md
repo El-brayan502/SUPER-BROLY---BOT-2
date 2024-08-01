@@ -1,7 +1,7 @@
-<h1 align="center">‧ 𝐁𝐑𝐎𝐋𝐘 - 𝐁𝐎𝐓 ‧
+<h1 align="center">‧ 【𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘 - 𝐁𝐎𝐓】 ‧
 </p>
 <p>
-        <img src= "https://telegra.ph/file/a6d077cafb4b3204d8fc2.jpg">
+        <img src= "https://telegra.ph/file/3d9c5b98c8a12faf041c4.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -100,7 +100,7 @@ npm start
 
 - Si quieres probar la Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/LGyw9xekK82BlolSkbkISU"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -117,8 +117,8 @@ npm start
 
 ---------
 <div align="center">
-  <h1 align="center">Editor y Propietario del Bot</h1>
+  <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/StarlightsTeam"><img src="https://telegra.ph/file/0ee578dc89ecd5b79e258.jpg" width="300" height="300" alt="Brayan"/></a>
+<a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/qRfKp3t/file.jpg" width="300" height="300" alt="おDaniel"/></a>
 
-`© 𝐓𝐡𝐞 𝐁𝐫𝐨𝐥𝐲-𝐁𝐨𝐭 / 𝐒𝐮𝐩𝐞𝐫 𝐁𝐫𝐨𝐥𝐲_𝗕𝗿𝗮𝘆𝗮𝗻-502`
+`© Ai Hoshino - MD / Starlights Team _ By おDaniel`
