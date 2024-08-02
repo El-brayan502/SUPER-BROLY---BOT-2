@@ -126,7 +126,7 @@ npm start
 - **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBotLite-MD**</summary><img src="https://telegra.ph/file/0b7ba2b142f21c676b84a.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - Broly-bot**</summary><img src="https://telegra.ph/file/0b7ba2b142f21c676b84a.jpg"></details>
 ------------------------
 
 ---------
