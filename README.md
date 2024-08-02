@@ -114,16 +114,6 @@ npm start
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=StarlightsTeam&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightsTeam&layout=compact&theme=chartreuse-dark)
-
----------
-<div align="center">
-  <h1 align="center">Editor y Propietario del Bot</h1>
-
-<a href="https://github.com/El-brayan502"><img src="https://telegra.ph/file/a8fada0d669afac23ce5d.jpg" width="300" height="300" alt="Brayan"/></a>
-
-`© 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓 / 𝗖𝗿𝗲𝗮𝗱𝗼𝗿--𝗕𝗿𝗮𝘆𝗮𝗻𝗖𝗵𝗮𝗽𝗶𝗻`
-
-
 ### 🟢 INFINITY-HOST
 > Activar **GataBotLite-MD** 24/7 activo en Infinity-Host
 
@@ -138,3 +128,13 @@ npm start
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBotLite-MD**</summary><img src="https://telegra.ph/file/0b7ba2b142f21c676b84a.jpg"></details>
 ------------------------
+
+---------
+<div align="center">
+  <h1 align="center">Editor y Propietario del Bot</h1>
+
+<a href="https://github.com/El-brayan502"><img src="https://telegra.ph/file/a8fada0d669afac23ce5d.jpg" width="300" height="300" alt="Brayan"/></a>
+
+`© 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓 / 𝗖𝗿𝗲𝗮𝗱𝗼𝗿--𝗕𝗿𝗮𝘆𝗮𝗻𝗖𝗵𝗮𝗽𝗶𝗻`
+
+
