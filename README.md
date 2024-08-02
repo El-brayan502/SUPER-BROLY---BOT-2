@@ -115,7 +115,7 @@ npm start
 ![github stats](https://github-readme-stats.vercel.app/api?username=StarlightsTeam&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightsTeam&layout=compact&theme=chartreuse-dark)
 ### 🟢 INFINITY-HOST
-> Activar **GataBotLite-MD** 24/7 activo en Infinity-Host
+> Activar **The Broly-bot** 24/7 activo en Infinity-Host
 
 <a href="https://dash.infinity-wa.com"><img src="https://i.imgur.com/CiNEYMc.png" height="140px"></a>
 ### Información del Host
