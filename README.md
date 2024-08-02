@@ -106,7 +106,7 @@ npm start
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Ai-Hoshino&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Broly-bot&theme=chartreuse-dark)
 
 ---------
 
@@ -114,6 +114,7 @@ npm start
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=StarlightsTeam&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightsTeam&layout=compact&theme=chartreuse-dark)
+
 ### 🟢 INFINITY-HOST
 > Activar **The Broly-bot** 24/7 activo en Infinity-Host
 
