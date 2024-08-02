@@ -122,3 +122,19 @@ npm start
 <a href="https://github.com/El-brayan502"><img src="https://telegra.ph/file/a8fada0d669afac23ce5d.jpg" width="300" height="300" alt="Brayan"/></a>
 
 `© 𝐓𝐇𝐄 𝐁𝐑𝐎𝐋𝐘-𝐁𝐎𝐓 / 𝗖𝗿𝗲𝗮𝗱𝗼𝗿--𝗕𝗿𝗮𝘆𝗮𝗻𝗖𝗵𝗮𝗽𝗶𝗻`
+
+
+### 🟢 INFINITY-HOST
+> Activar **GataBotLite-MD** 24/7 activo en Infinity-Host
+
+<a href="https://dash.infinity-wa.com"><img src="https://i.imgur.com/CiNEYMc.png" height="140px"></a>
+### Información del Host
+
+- **Dashboard:** [`Aquí`](https://dash.infinity-wa.com)
+- **Panel:** [`Aquí`](https://panel.infinity-wa.com)
+- **Estado de servicios:** [`Aquí`](https://status.infinity-wa.xyz)
+- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBotLite-MD**</summary><img src="https://telegra.ph/file/0b7ba2b142f21c676b84a.jpg"></details>
+------------------------
